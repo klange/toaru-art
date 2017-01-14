@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg4099"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logout-candidate2.svg"
+   inkscape:export-filename="/home/klange/Projects/osdev-strawberry/hdd/usr/share/icons/panel-shutdown.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4101">
+    <filter
+       inkscape:collect="always"
+       id="filter4776">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.33359375"
+         id="feGaussianBlur4778" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4776-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.33359375"
+         id="feGaussianBlur4778-0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="10.204981"
+     inkscape:cy="11.238673"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4114"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-364,-521.36218)">
+    <rect
+       y="525.36218"
+       x="374"
+       height="7"
+       width="2"
+       id="rect4782"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40000001;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4776-7);enable-background:accumulate" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4776);enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 8 6.84375 C 5.7772231 7.9487463 4.25 10.230995 4.25 12.875 C 4.25 16.59404 7.28096 19.625 11 19.625 C 14.71904 19.625 17.75 16.59404 17.75 12.875 C 17.75 10.230995 16.222777 7.9487463 14 6.84375 L 14 8.5625 C 15.358739 9.5116558 16.25 11.083259 16.25 12.875 C 16.25 15.78338 13.90838 18.125 11 18.125 C 8.09162 18.125 5.75 15.78338 5.75 12.875 C 5.75 11.083259 6.6412615 9.5116558 8 8.5625 L 8 6.84375 z "
+       transform="translate(364,521.36218)"
+       id="path4762" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 8 5.96875 C 5.7772231 7.0737463 4.25 9.355995 4.25 12 C 4.25 15.71904 7.28096 18.75 11 18.75 C 14.71904 18.75 17.75 15.71904 17.75 12 C 17.75 9.355995 16.222777 7.0737463 14 5.96875 L 14 7.6875 C 15.358739 8.6366558 16.25 10.208259 16.25 12 C 16.25 14.90838 13.90838 17.25 11 17.25 C 8.09162 17.25 5.75 14.90838 5.75 12 C 5.75 10.208259 6.6412615 8.6366558 8 7.6875 L 8 5.96875 z "
+       transform="translate(364,521.36218)"
+       id="path4720" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4780"
+       width="2"
+       height="7"
+       x="374"
+       y="524.36218" />
+  </g>
+</svg>
