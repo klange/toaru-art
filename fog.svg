@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4754"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   sodipodi:docname="fog.svg"
+   inkscape:export-filename="/home/klange/Projects/toaruos-ldiso/hdd/usr/share/icons/weather/50d.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata4760">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4758" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     id="namedview4756"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:zoom="16"
+     inkscape:cx="17.551298"
+     inkscape:cy="17.676911"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4754">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4764"
+       units="px"
+       spacingx="1"
+       spacingy="1"
+       empspacing="8"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-rule:evenodd;stroke:#002aff;stroke-width:1.91824687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 2.9712839,8.6733717 c 0,0 2.3329565,-1.1989043 3.5967127,-1.1989043 1.263756,0 2.3978084,1.1989043 3.5967124,1.1989043 1.198905,0 2.397809,-1.1989043 3.596713,-1.1989043 1.198904,0 2.397808,1.1989043 3.596713,1.1989043 1.198904,0 3.596712,-1.1989043 3.596712,-1.1989043"
+     id="path4143"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscccc" />
+  <path
+     sodipodi:nodetypes="cscccc"
+     inkscape:connector-curvature="0"
+     id="path4145"
+     d="m 2.9712839,12.607275 c 0,0 2.3329565,-1.198904 3.5967127,-1.198904 1.263756,0 2.3978084,1.198904 3.5967124,1.198904 1.198905,0 2.397809,-1.198904 3.596713,-1.198904 1.198904,0 2.397808,1.198904 3.596713,1.198904 1.198904,0 3.596712,-1.198904 3.596712,-1.198904"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-rule:evenodd;stroke:#002aff;stroke-width:1.91824687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-rule:evenodd;stroke:#002aff;stroke-width:1.91824687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 2.9712839,16.470099 c 0,0 2.3329565,-1.198904 3.5967127,-1.198904 1.263756,0 2.3978084,1.198904 3.5967124,1.198904 1.198905,0 2.397809,-1.198904 3.596713,-1.198904 1.198904,0 2.397808,1.198904 3.596713,1.198904 1.198904,0 3.596712,-1.198904 3.596712,-1.198904"
+     id="path4147"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscccc" />
+</svg>
